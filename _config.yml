@@ -1,0 +1,28 @@
+name: VictoriaWebSolutions
+favicon: null
+layout_spectrum: 0.5381802765186876
+typography_spectrum: 0.31712109223008156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6673604208044708
+  lightness: 0.7284281887114048
+  saturation: 0.679144305177033
+  rhythmicContrast: 0.09513132483698428
+purpose: []
